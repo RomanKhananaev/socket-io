@@ -1,3 +1,6 @@
+//install npm i socket.io-client --save
+// run server node socket-io-server.js
+
 users = [
   { id: 1, name: "roman", age: 27 },
   { id: 2, name: "Nikol", age: 26 },
